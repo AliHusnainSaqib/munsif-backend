@@ -4,7 +4,7 @@ FastAPI + Supabase backend powering **MUNSIF**, an independent, AI-powered assis
 
 > MUNSIF is an independent, unofficial educational project and is not affiliated with, endorsed by, or operated by the State Bank of Pakistan.
 
-Frontend repository: [munsif-frontend](https://github.com/YOUR_USERNAME/munsif-frontend)
+Frontend repository: [munsif-frontend](https://github.com/AliHusnainSaqib/munsif-frontend)
 
 ## Features
 - Deterministic, retrieval-based chatbot — answers are matched from a curated knowledge base, never freely generated, to avoid hallucinated regulatory advice
