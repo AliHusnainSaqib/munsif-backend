@@ -1,0 +1,10 @@
+# Environment — never commit real secrets
+.env
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/

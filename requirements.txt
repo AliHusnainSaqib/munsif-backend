@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+supabase
+python-dotenv
+pydantic-settings
+sentence-transformers
+numpy
+pyjwt
+slowapi
+python-multipart
